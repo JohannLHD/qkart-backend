@@ -15,7 +15,7 @@
  &nbsp; :ballot_box_with_check:Wrote unit and integration tests to test the implementation
  
 <div align="center">
-<img src = "https://storage.googleapis.com/crio-content-container-assets/ME_ME_QKART_BACKEND_MODULE_PROJECT_REPORT_image_0.png" width="700" height="400">
+<img src = "https://ctrly.blog/wp-content/uploads/2022/01/nodejs-layered-architecture-diagram-1024x763.png" width="700" height="400">
   <p>QKart Layered Architecture</p>
 </div>
 
@@ -34,11 +34,6 @@
  
 :hammer: Skills used: Node.js, Express.js, MongoDB, Mongoose ODM, JOI validation
 
-<div align="center">
-<img src = "https://storage.googleapis.com/crio-content-container-assets/ME_ME_QKART_BACKEND_MODULE_PROJECT_REPORT_image_1.png" width="700" height="400">
-  <p>Request-response cycle in QKart (Endpoint: /v1/users)</p>
-</div>
-
 <hr></hr>
 
 <p>:arrow_right: Secure API endpoints and implement register/login APIs </p>
@@ -54,7 +49,7 @@
 :hammer: Skills used: REST APIs, Token authentication, JWT Token, Password authentication, Hashing
 
 <div align="center">
-<img src = "https://storage.googleapis.com/crio-content-container-assets/ME_ME_QKART_BACKEND_MODULE_PROJECT_REPORT_image_2.png" width="700" height="400">
+<img src = "https://www.vaadata.com/blog/wp-content/uploads/2016/12/JWT_tokens_FR-1.png" width="700" height="400">
   <p>JWT Token authentication flow for QKart APIs</p>
 </div>
 
